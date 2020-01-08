@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Orbitron:700);
+body {
+  background-color: black;
+  background-image: radial-gradient(2px 2px at 20vw 30vh, #eee, transparent),
+    radial-gradient(5px 5px at 70vw 40vh, #fff, transparent),
+    radial-gradient(5px 5px at 26vw 5vh, #ddd, transparent),
+    radial-gradient(5px 5px at 40vw 90vh, #fff, transparent),
+    radial-gradient(5px 5px at 83vw 98vh, #fff, transparent),
+    radial-gradient(5px 5px at 10vw 60vh, #ddd, transparent),
+    radial-gradient(3px 3px at 75vw 45vh, #fff, transparent),
+    radial-gradient(3px 3px at 5vw 85vh, #ddd, transparent),
+    radial-gradient(3px 3px at 95vw 45vh, #fff, transparent),
+    radial-gradient(3px 3px at 105vw 29vh, #fff, transparent),
+    radial-gradient(5px 5px at 40vw 7vh, #fff, transparent),
+    radial-gradient(5px 5px at 50vw 30vh, #ddd, transparent),
+    radial-gradient(5px 5px at 90vw 40vh, #fff, transparent),
+    radial-gradient(5px 5px at 100vw 80vh, #fff, transparent),
+    radial-gradient(5px 5px at 60vw 10vh, #ddd, transparent),
+    radial-gradient(3px 3px at 45vw 75vh, #fff, transparent),
+    radial-gradient(3px 3px at 55vw 85vh, #ddd, transparent),
+    radial-gradient(3px 3px at 95vw 45vh, #fff, transparent),
+    radial-gradient(3px 3px at 105vw 29vh, #fff, transparent),
+    radial-gradient(3px 3px at 65vw 15vh, #ddd, transparent),
+    radial-gradient(4px 4px at 32vw 29vh, #fff, transparent),
+    radial-gradient(4px 4px at 87vw 65vh, #ddd, transparent),
+    radial-gradient(4px 4px at 95vw 22vh, #fff, transparent),
+    radial-gradient(4px 4px at 54vw 78vh, #fff, transparent),
+    radial-gradient(4px 4px at 5vw 15vh, #ddd, transparent),
+    linear-gradient(
+      transparent 50%,
+      rgb(25, 25, 112, 0.5) 90%,
+      rgb(75, 0, 130, 0.5)
+    );
+  min-height: 100vh;
+}
+
+h1 {
+  color: rgba(255, 255, 255, 0.5);
+  font-family: 'Orbitron', sans-serif;
+  font-size: 5rem;
+  text-align: center;
+}
+
+.logo {
+  fill: rgba(255, 255, 255, 0.25);
+  font-family: 'Orbitron';
+  font-size: 50px;
+  max-width: 100%;
+  stroke: white;
+  stroke-width: 1px;
+  width: 600px;
+}
